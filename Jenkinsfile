@@ -1,5 +1,5 @@
 pipeline{
-    agend:any 
+    agend any 
 
     stages{
         stage('Install'){
