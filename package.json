@@ -4,19 +4,13 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\"",
+    "start": "node server.js",
+    "build": "echo \"Build successful\""
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/PavaniMu/nodejs.git"
-  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/PavaniMu/nodejs/issues"
-  },
-  "homepage": "https://github.com/PavaniMu/nodejs#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
